@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Laundry-Task-OMIIST/static/css/main.84487ea8.css",
-    "main.js": "/Laundry-Task-OMIIST/static/js/main.eea57869.js",
+    "main.js": "/Laundry-Task-OMIIST/static/js/main.68467f67.js",
     "static/media/welcome.svg": "/Laundry-Task-OMIIST/static/media/welcome.b8c0ef45d5b64704066112d0daf038c2.svg",
     "static/media/userLogin.svg": "/Laundry-Task-OMIIST/static/media/userLogin.4ba3c1aef43f0fc7347e6318fe71fb34.svg",
     "static/media/signUp.svg": "/Laundry-Task-OMIIST/static/media/signUp.72a7841827dca968a8888e7adeae5895.svg",
     "index.html": "/Laundry-Task-OMIIST/index.html",
     "main.84487ea8.css.map": "/Laundry-Task-OMIIST/static/css/main.84487ea8.css.map",
-    "main.eea57869.js.map": "/Laundry-Task-OMIIST/static/js/main.eea57869.js.map"
+    "main.68467f67.js.map": "/Laundry-Task-OMIIST/static/js/main.68467f67.js.map"
   },
   "entrypoints": [
     "static/css/main.84487ea8.css",
-    "static/js/main.eea57869.js"
+    "static/js/main.68467f67.js"
   ]
 }
